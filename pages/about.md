@@ -4,6 +4,8 @@ layout: home
 nav_order: 4
 ---
 
+# Acknowledgements
+
 Sorbonne IPRS is funded in part by a cybersecurity grant from the French Ministry of Armed Forces.
 Sorbonne University is a sponsor of Measurement Lab. The Dioptra research group receives cloud credits from Google in support of this partnership, and Measurement Lab hosts IPRS data.
 
