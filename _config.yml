@@ -11,7 +11,7 @@ gitbook_version:  3.2.3
 
 url:              'https://sorbonne-iprs.github.io'
 baseurl:          ''
-#theme: just-the-docs
+theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
 
 search_enabled: false

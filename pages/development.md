@@ -4,11 +4,11 @@ layout: home
 nav_order: 3
 ---
 
-# Future Development
+## Future Development
 
 Our development roadmap focuses on two key areas.
 
-## Enhanced Monitoring Capabilities
+### Enhanced Monitoring Capabilities
 
 We are working to:
 
@@ -16,13 +16,13 @@ We are working to:
 * Expand coverage of internet routes that are not well covered by current publicly-available data
 * Improve observers' ability to detect and track network attacks and anomalies
 
-## Community-Driven Improvements
+### Community-Driven Improvements
 
 Our mission is to serve a diverse set of stakeholders, including content providers, network operators, telecom regulators, cybersecurity analysts, and internet measurement researchers.
 
 We welcome your feedback to better align IPRS capabilities with community needs.
 
-# Technical Implementation
+## Technical Implementation
 
 IPRS relies on free, liberally-licensed open-source software:
 

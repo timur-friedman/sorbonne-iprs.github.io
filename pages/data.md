@@ -4,16 +4,16 @@ layout: home
 nav_order: 2
 ---
 
-# Data Access and Citation
+## Data Access and Citation
 
 IPRS data is available through two primary channels:
 
-## Measurement Lab
+### Measurement Lab
 
 IPv4 snapshots are accessible via [Measurement Lab](https://www.measurementlab.net)'s Google BigQuery tables.
 This data is provided in the `scamper1` format, consistent with existing Measurement Lab `traceroute` data.
 
-## Dioptra
+### Dioptra
 
 Contact the Dioptra group directly for your additional data needs:
 
