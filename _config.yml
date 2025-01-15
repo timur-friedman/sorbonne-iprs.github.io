@@ -14,12 +14,14 @@ baseurl:          ''
 #theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
 
+search_enabled: false
+
 # Aux links for the upper right navigation
-aux_links:
-  "Dioptra":
-    - "//dioptra.io"
-  "Iris":
-    - "//iris.dioptra.io"
+#aux_links:
+#  "Dioptra":
+#    - "//dioptra.io"
+#  "Iris":
+#    - "//iris.dioptra.io"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
@@ -28,8 +30,7 @@ nav_enabled: true
 
 heading_anchors: true
 
-#footer_content: "Copyright &copy; 2025 Dioptra Team. Distributed by an <a href=\"https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt\">MIT license.</a>"
-footer_content: "Copyright &copy; 2025 Dioptra Team. Distributed by an <a href=\"https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt\">MIT license.</a>"
+footer_content: "Copyright &copy; 2025 Sorbonne Université. Distributed under the <a href=\"https://github.com/sorbonne-iprs/sorbonne-iprs.github.io/tree/main/LICENSE\">MIT license.</a>"
 
 toc:
   enabled: true
